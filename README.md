@@ -13,4 +13,4 @@
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a> </p>
 <h2 align="left">M<y discord: Somi#8656</h3>
-<a href="https://discord.gg/dq7VpUryG4" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
+<a href="https://discord.gg/dq7VpUryG4" target="_blank"><img src="https://github.com/S0-m1/S0-m1/blob/main/somi-snake.svg" alt="snake"></a>
