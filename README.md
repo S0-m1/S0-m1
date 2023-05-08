@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/@somi27](https://www.youtube.com/channel/UCn8KzATu53QT2te586M_JDA)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@somi27" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCn8KzATu53QT2te586M_JDA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@somi27" height="30" width="40" /></a>
 <a href="https://discord.gg/discord.gg/ekYev5CQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/ekYev5CQ" height="30" width="40" /></a>
 </p>
 
